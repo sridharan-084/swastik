@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/swastik/static/css/main.0d36cda8.css",
+    "main.js": "/swastik/static/js/main.e2d915ba.js",
+    "index.html": "/swastik/index.html",
+    "main.0d36cda8.css.map": "/swastik/static/css/main.0d36cda8.css.map",
+    "main.e2d915ba.js.map": "/swastik/static/js/main.e2d915ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d36cda8.css",
+    "static/js/main.e2d915ba.js"
+  ]
+}
